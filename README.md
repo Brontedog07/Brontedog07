@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: dont
-- ⚡ Fun fact: sperm whales cant cum
+- ⚡ Fun fact: Submarine sonar is so loud it can give you concussion
 
 <!---
 Brontedog07/Brontedog07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
